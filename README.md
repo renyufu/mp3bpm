@@ -25,4 +25,5 @@ Toolchain for stretch mp3 bpm(beats per minutes).
 
 10. `./bpm input.mp3 out.mp3 bpm`  
   
-    for example: `./bpm 160.mp3 180.mp3 180`
+    for example:   
+    `./bpm 160.mp3 180.mp3 180`
