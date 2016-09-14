@@ -1,4 +1,4 @@
-FROM ubuntu:buildbase
+FROM dmbb/ubuntubase
 RUN wget http://www.surina.net/soundtouch/soundtouch-1.9.2.tar.gz
 RUN tar -xvf soundtouch-1.9.2.tar.gz
 WORKDIR /soundtouch
